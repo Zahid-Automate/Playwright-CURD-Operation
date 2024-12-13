@@ -3,7 +3,8 @@
 ## Overview
 This project contains Playwright tests with custom annotations and comprehensive test scenarios, including:
 - Use of annotations in your test scripts (Page title verification test case) - HTML reports will include the same in a separate section which can be used for better reporting)
-  <img width="774" alt="image" src="https://github.com/user-attachments/assets/7cd5512f-7ec1-4416-8981-86ff64783935" />
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/71652389-cecc-4d12-8702-c1029436a082" />
+
 
 - Employee CRUD (Create, Read, Update, Delete) Operations
 
@@ -16,7 +17,7 @@ This project contains Playwright tests with custom annotations and comprehensive
 
 1. Clone the repository:
 ```bash
-git clone (https://github.com/Zahid-Automate/Playwright-CURD-Operation.git)
+git clone https://github.com/Zahid-Automate/Playwright-CURD-Operation.git
 ```
 
 2. Install dependencies:
